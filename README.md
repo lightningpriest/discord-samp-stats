@@ -7,7 +7,7 @@
 Copy and paste the script into your public function.
   
 ### Preview:  
-![Preview][https://i.ibb.co/PwNxSBd/Screenshot-454.png]  
+![Preview](https://i.ibb.co/PwNxSBd/Screenshot-454.png)
   
 ### Notes:  
 Feel free to open issues if you get error when compile/need help.
