@@ -9,7 +9,8 @@
                                             |___/               
 
 Github: https://github.com/prrssr
-Version: 0.0.1             
+Version: 0.0.1    
+Requirements: discord-connector         
 */
 #include <a_samp>
 #include <discord-connector>
