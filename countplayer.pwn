@@ -7,10 +7,11 @@
 / /__| (_) | |_| | | | | |_  / ___/| | (_| | |_| |  __/ |  \__ \
 \____/\___/ \__,_|_| |_|\__| \/    |_|\__,_|\__, |\___|_|  |___/
                                             |___/               
-
+----------------------------------------------------------------->
 Github: https://github.com/prrssr
 Version: 0.0.1    
-Requirements: discord-connector         
+Requirements: discord-connector  
+<----------------------------------------------------------------       
 */
 #include <a_samp>
 #include <discord-connector>
