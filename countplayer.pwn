@@ -26,6 +26,11 @@ public BotStatus(playerid)
 	DCC_SetBotActivity(string);
 }
 
+public OnGameModeInit()
+{
+       SetTimer("BotStatus", 1000, true);
+}
+
 public OnPlayerConnect(playerid)
 {
 	CountingPlayer++;
